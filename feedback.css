@@ -1,0 +1,38 @@
+table{
+    margin-top: 10px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+th{
+    background-color: rgb(120, 120, 246);
+}
+div{
+    display: flex;
+    justify-content: flex-start;
+}
+.p{
+    padding-left: 40%;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(14, 126, 154)
+}
+#A{
+    display: flex;
+    justify-content:flex-start;
+}
+#main{
+    margin-left: 900px;
+}
+#m{
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: rgb(245, 231, 231);
+}
+#main{
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: rgb(245, 231, 231);
+}
+
+   

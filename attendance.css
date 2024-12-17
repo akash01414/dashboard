@@ -1,0 +1,18 @@
+table{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+th{
+    background-color: rgb(120, 120, 246);
+}
+div{
+    display: flex;
+    justify-content: flex-start;
+}
+.p{
+    padding-left: 40%;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(14, 126, 154)
+}
